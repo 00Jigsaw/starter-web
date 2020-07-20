@@ -1,3 +1,4 @@
 1. Git Hub Repository
 2. Local Respository
 3. Staging Area
+4. Working file
